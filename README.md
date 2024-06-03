@@ -6,9 +6,6 @@ Hybrid Continuous Delivery (Jenkins&AWS)
 
 ## Pre-requisities
 
-* Project-7 Setup
-
-
 ### Step-1: Validate CI Pipeline in Jenkins
 
 We have our CI pipeline ready in Jenkins server, we will run it to make sure it runs without any problem.
