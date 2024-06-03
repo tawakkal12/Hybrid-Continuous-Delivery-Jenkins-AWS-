@@ -1,4 +1,4 @@
-# Project-10: Hybrid Continuous Delivery (Jenkins&AWS)
+Hybrid Continuous Delivery (Jenkins&AWS)
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
